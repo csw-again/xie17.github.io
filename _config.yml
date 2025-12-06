@@ -13,7 +13,7 @@ title                    : "蔡善伟的个人主页"
 title_separator          : "-"
 name                     : &name "蔡善伟"
 description              : &description "信息安全专业大学生的学习与项目记录"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://xie17.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://csw-again.github.io/xie17.github.io/o # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xie17/xie17.github.io"
